@@ -6,15 +6,15 @@
 
 <a href=""><img title="Followers" 
 
-<a href="https://github.com/Qeen4467ggg/KAVI-MD-BOT/stargazers/"><img title="Stars" 
 
-<a href="https://github.com/Qeen4467ggg/KAVI-MD-BOT/network/members"><img title="Forks" 
 
-<a href="https://github.com/Qeen4467ggg/KAVI-MD-BOT/watchers"><img title="Watching" 
+
+
+
 
 ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න⬇️
 
-    <br>
+   
 
 <a href='https://baileys-md-qr.herokuapp.com/deployment' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -22,7 +22,7 @@
 
 ### Heroku  එකව්න්ට් එකක් නැත්නම් හදා ගන්න මෙතනින් ⬇️
 
-    <br>
+    
 
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
@@ -30,7 +30,7 @@
 
 ### පහල ලින්ක් එකෙන් ගිහින් බොටාව හදන්න ⬇️
 
-    <br>
+   
 
 <a href='https://baileys-md-qr.herokuapp.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
